@@ -410,7 +410,7 @@
                             android:id="@+id/bg_checkbox"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:checked="true"
+                            android:checked="false"
                             android:text="@string/bg_label" />
 
                         <CheckBox
@@ -477,7 +477,7 @@
                         android:id="@+id/iob_checkbox"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:checked="true"
+                        android:checked="false"
                         android:text="@string/iob" />
 
                     <TextView
